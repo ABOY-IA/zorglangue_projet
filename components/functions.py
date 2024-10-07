@@ -8,3 +8,4 @@ def zorglangue(phrase):
 
     mots_inverses = [reverse_word(mot) for mot in phrase.split()]
     return ' '.join(mots_inverses)
+

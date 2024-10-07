@@ -7,3 +7,4 @@ def test_zorglangue():
     assert zorglangue("Bonjour") == "ruojnoB"
     assert zorglangue("Vive Zorglub !") == "eviV bulgroZ !"
     assert zorglangue("Ceci est un message secret.") == "iceC tse nu egassem terces."
+
